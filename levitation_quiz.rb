@@ -8,4 +8,4 @@ end
 puts "You passed the quiz!"
 end
 
-ruby levitation_quiz
+ruby levitation_quiz.rb
